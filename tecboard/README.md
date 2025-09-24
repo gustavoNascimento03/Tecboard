@@ -53,13 +53,6 @@ http://localhost:5173
 - `imagem_1.png` até `imagem_15.png`
 - `imagem_extra_1.png` até `imagem_extra_15.png`
 
-**Formato de uso direto no projeto:**
-
-```txt
-https://raw.githubusercontent.com/viniciosneves/tecboard-assets/refs/heads/main/imagem_1.png
-https://raw.githubusercontent.com/viniciosneves/tecboard-assets/refs/heads/main/imagem_extra_9.png
-```
-
 ## 📚 Sobre o projeto
 
 Esse projeto foi desenvolvido com fins educacionais para praticar:
@@ -70,9 +63,5 @@ Esse projeto foi desenvolvido com fins educacionais para praticar:
 - Estilização com CSS.
 - Uso de props e renderização condicional.
 
-Ideal para quem quer dar os primeiros passos em React criando algo visual, interativo e útil.
-
-Se quiser adicionar deploy com Vercel, persistência com LocalStorage ou backend com Firebase, este projeto é uma ótima base para evoluir!
-
 Vida longa e próspera 🖖
-
+Praise the Fool 😶‍🌫️
